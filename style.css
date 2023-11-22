@@ -789,7 +789,8 @@ input {
     .right-div {
 
         height: 400px;
-        background-image: url("./image/banner-Mobile_Revised.png");
+        background-image: url("/image/banner-Mobile_Revised.png");
+        background-size: cover;
         width: 100%;
     }
 
