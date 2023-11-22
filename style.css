@@ -719,7 +719,7 @@ input {
         display: block;
     }
 
-    button {
+   .flex button {
         display: none;
     }
 
@@ -789,8 +789,7 @@ input {
     .right-div {
 
         height: 400px;
-        background-image: url("/image/banner-Mobile_Revised.png");
-        background-size: cover;
+        background-image: url("./image/banner-Mobile_Revised.png");
         width: 100%;
     }
 
